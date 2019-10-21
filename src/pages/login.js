@@ -11,4 +11,4 @@ const Login = () => (
   </Layout>
 )
 
-export default IndexPage
+export default Login
